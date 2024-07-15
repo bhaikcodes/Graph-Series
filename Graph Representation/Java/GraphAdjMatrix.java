@@ -32,3 +32,14 @@ public class GraphAdjMatrix {
         graph.printGraph();
     }
 }
+
+/*
+*   >>> OUTPUT <<<
+*
+*  0 1 1 0 0 0 
+*  1 0 1 0 0 0 
+*  1 1 0 1 0 0 
+*  0 0 1 0 0 0 
+*  0 0 0 0 0 1 
+*  0 0 0 0 1 0 
+*/
